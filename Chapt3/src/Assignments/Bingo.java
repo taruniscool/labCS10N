@@ -6,7 +6,7 @@ School: CHHS
 Course: Computer Science 10
  
 */
-public class LobsterFile {
+public class Bingo {
 
 	public static void main(String[] args) {
 		System.out.println("   B    I    N    G    O");

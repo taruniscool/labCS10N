@@ -1,13 +1,13 @@
 package Assignments;
 /*
-Program: ${BingoCard}.java          Date: ${4/14/2022}
+Program: ${Pizza}.java          Date: ${4/14/2022}
 Author: Lobsang Nyima 
 School: CHHS
 Course: Computer Science 10
 */
 import java.util.Scanner;
 
-public class quack{
+public class pizzaThing{
 
 	public static void main(String[] args)
 	{
